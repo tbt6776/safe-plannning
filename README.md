@@ -10,4 +10,6 @@ https://colab.research.google.com/github/tbt6776/safe-plannning/blob/main/tut2_o
 
 https://colab.research.google.com/github/tbt6776/safe-plannning/blob/main/tut3_discrete_planning_public.ipynb
 
+https://colab.research.google.com/github/tbt6776/safe-plannning/blob/main/tut3_discrete_planning_public(2).ipynb
+
 https://colab.research.google.com/github/tbt6776/safe-plannning/blob/main/tut4_multi_agent.ipynb
